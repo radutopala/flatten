@@ -16,7 +16,7 @@ package main
 
 import (
   "fmt"
-	"github.com/radutopala/flatten"
+  "github.com/radutopala/flatten"
 )
 
 func main() {
